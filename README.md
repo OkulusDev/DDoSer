@@ -12,7 +12,7 @@ git clone https://github.com/OkulusDev/ddoser.git
 2. Установите make, python3, python3-pip
 
 ```bash
-sudo apt install make python3 python3-pip
+sudo apt install make python3 python-pip
 ```
 
 3. Создайте виртуальное окружение
